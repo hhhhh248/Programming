@@ -135,9 +135,6 @@
     <ClCompile Include="chap03_7.c" />
     <ClCompile Include="chap3_10.c" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="A" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
