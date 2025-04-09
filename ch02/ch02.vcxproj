@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="ch02-01.c" />
     <ClCompile Include="ch02-02.c" />
-    <ClCompile Include="fsdfdsf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
